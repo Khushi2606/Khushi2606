@@ -4,7 +4,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khushi2606&label=Profile%20views&color=0e75b6&style=flat" alt="Khushi2606" /> </p>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning about **AR**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning about **React**
 
 - 📫 How to reach me **Khushboo.2125csit@kiet.edu**
 
